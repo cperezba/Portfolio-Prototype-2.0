@@ -18,7 +18,7 @@
 
 ## <a id="description-header"></a> Description
 
-How does one show ones work without a portfolio?! This project was made both to improve one's CSS skills and to also provide a personal portal to web development projects.
+Every web developer needs a portfolio! This project was made both to improve one's CSS skills and to also provide a personal portal to web development projects.
 
 This portfolio website serves as a professional introduction, access to previous and current projects, as well as a means of personal contact.
 
